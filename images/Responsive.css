@@ -1,0 +1,208 @@
+@media only screen and (min-width:360px) and (max-width:575px) {
+    body {
+        width: 360px;
+        max-width: 575px;
+    }
+
+    .icons {
+        width: 376%;
+        height: 140px;
+    }
+
+    li.items {
+        color: #dfd6d6;
+        font-size: 24px;
+        margin-top: 24px;
+    }
+
+    ul.Apple {
+        height: 76px;
+        width: 100%;
+        margin-left: 30%;
+        margin-top: -20%;
+    }
+
+    .tv {
+        margin-left: 18%;
+        top: 10px;
+        font-size: 43px;
+
+
+    }
+
+    .tvs {
+        margin-left: 280%;
+        margin-top: -7%;
+    }
+
+    h1.para {
+        position: absolute;
+        margin-left: 20px;
+        left: 55%;
+        top: 224%;
+        width: 154%;
+        font-size: 93px;
+    }
+
+    .pic {
+        height: 300%;
+        width: 379%;
+    }
+
+    .pic1 {
+        height: 150px;
+        margin-top: 230%;
+        margin-left: 55%;
+    }
+
+    .para1 {
+        width: 262%;
+        font-weight: normal;
+        margin-top: 370%;
+        margin-left: 231px;
+        font-size: 70px;
+
+    }
+
+    .show {
+        display: flex;
+        position: absolute;
+        top: 350%;
+        height: 180px;
+        /* max-height: 110px; */
+        width: 100%;
+        border-bottom: 1px solid rgba(129, 126, 126, 0.274);
+        padding-bottom: 40px;
+        /* overflow-x: auto; */
+    }
+
+    .hd {
+        margin-top: -30%;
+        font-size: 80px;
+        left: 2%;
+        width: 340%;
+    }
+
+    .img {
+        width: 671px;
+        height: 230%;
+        /* max-width: 100%;
+        overflow-x: hidden; */
+
+    }
+
+    .show1 {
+        /* display: flex;
+        position: absolute; */
+        top: 400%;
+        /* height: 165px;
+        width: 100%;
+        border-bottom: 1px solid rgba(129, 126, 126, 0.342); */
+    }
+
+    .show2 {
+        /* display: flex;
+        position: absolute; */
+        top: 650%;
+        /* height: 165px;
+        width: 100%;
+        border-bottom: 1px solid rgba(129, 126, 126, 0.342); */
+    }
+
+    .contant {
+        font-size: 57px;
+        left: -9%;
+    }
+
+    .contant1 {
+        width: 95%;
+        font-size: 45px;
+        color: rgba(0, 0, 0, 0.842);
+    }
+
+    .show3 {
+        /* display: flex;
+        position: absolute; */
+        top: 900%;
+        /* height: 165px;
+        width: 100%;
+        border-bottom: 1px solid rgba(129, 126, 126, 0.342); */
+    }
+
+    .show4 {
+        /* display: flex;
+        position: absolute; */
+        top: 1150%;
+        /* height: 165px;
+        width: 100%;
+        border-bottom: 1px solid rgba(129, 126, 126, 0.342); */
+    }
+
+    .foot {
+        position: absolute;
+        color: #141111;
+        /* min-width: 108%; */
+        margin-top: 922%;
+        width: 379%;
+        font-size: 69px;
+        right: -285%;
+    }
+
+    .internet {
+        /* position: absolute;
+        color: #000000c2;
+        min-height: 23%;
+        min-width: 177%; */
+        margin-top: 955%;
+        font-size: 70px;
+        right: -79%;
+        /* list-style: none; */
+    }
+
+    /* .internet {
+        position: absolute;
+        color: #000000c2;
+        min-height: 23%;
+        min-width: 177%;
+        margin-top: 931%;
+        font-size: 70px;
+        right: -79%;
+        list-style: none;
+    } */
+    .AppleTV {
+        color: #000000;
+        /* min-width: 130%; */
+        margin-top: 962%;
+        font-size: 51px;
+        right: -246%;
+    }
+
+    .cookie {
+        /* position: absolute;
+        color: #000000c2;
+        min-width: 30%; */
+        margin-top: 999%;
+        font-size: 66px;
+        right: -39%;
+        /* list-style: none; */
+    }
+
+    .Support {
+        color: #000000c2;
+        margin-top: 999%;
+        font-size: 63px;
+        right: -140%;
+    }
+
+    /* .show::-webkit-scrollbar {
+        width: 0;
+    } */
+    /* .show .img {
+        min-width: 110px;
+        height: 230%;
+    } */
+
+    /* .show::-webkit-scrollbar {
+        width: 0;
+    } */
+}

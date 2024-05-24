@@ -1,0 +1,222 @@
+body {
+    font-family: 'poppins', sans-serif;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.icons {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav.navbar {
+    background: black;
+    height: 45px;
+}
+
+.item {
+    display: inline-block;
+    color: #dfd6d6;
+    margin: 0px 13px;
+    font-size: 15px;
+}
+
+.items {
+    display: inline-block;
+    color: #a9a6a6;
+    padding: 2px 14px;
+    font-size: 11px;
+}
+
+ul.Apple {
+    display: flex;
+    justify-content: space-around;
+    margin: 0px;
+
+}
+
+.tvs {
+    border-radius: 14px;
+    background-color: #fff;
+    color: black;
+    font-size: 12px;
+    padding: 4px 9px;
+}
+
+.tv {
+    list-style: none;
+    color: #fff;
+    font-size: 17px;
+
+
+}
+
+.img-pic {
+    width: 25%;
+}
+
+.button {
+    display: flex;
+    justify-content: space-between;
+}
+
+img.pic2 {
+    width: 100%;
+}
+
+
+.home-image {
+    display: flex;
+    height: 0px;
+    align-items: end;
+    padding-left: 3%;
+}
+
+.items:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.para {
+    color: white;
+}
+
+h1.para1 {
+    color: white;
+    font-weight: 400;
+    width: 64%;
+    font-size: 16px;
+}
+
+.show {
+    display: flex;
+    border-bottom: 1px solid #00000036;
+    padding: 2%;
+    gap: 20px;
+}
+
+.img1 {
+    width: 100%;
+    border-radius: 20px;
+
+}
+
+.img1:hover {
+    opacity: 0.7;
+}
+
+.contant {
+    font-size: 12px;
+    color: #0000009e;
+}
+
+h1.hd {
+    font-size: 15px;
+    font-weight: 500;
+    padding-left: 2%;
+}
+
+.show1 {
+    display: flex;
+    padding: 2%;
+    border-bottom: 1px solid #00000036;
+    gap: 20px;
+}
+
+.img2 {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.img2:hover {
+    opacity: 0.7;
+}
+
+.show2 {
+    display: flex;
+    padding: 2%;
+    border-bottom: 1px solid #00000036;
+    gap: 20px;
+}
+
+.img3 {
+    width: 100%;
+    border-radius: 20px;
+
+}
+
+.img3:hover {
+    opacity: 0.7;
+}
+
+.show3 {
+    display: flex;
+    padding: 2%;
+    border-bottom: 1px solid #00000036;
+    gap: 20px;
+}
+
+.img4 {
+    width: 100%;
+    border-radius: 20px;
+
+}
+
+.img4:hover {
+    opacity: 0.7;
+}
+
+.show4 {
+    display: flex;
+    padding: 2%;
+    border-bottom: 1px solid #00000036;
+    gap: 20px;
+}
+
+.img5 {
+    width: 100%;
+    border-radius: 20px;
+
+}
+
+.img5:hover {
+    opacity: 0.7;
+}
+
+a {
+    text-decoration: none;
+    color: #000000c2;
+}
+
+.foot {
+    font-size: 14px;
+    padding-left: 3%;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+    width: 45%;
+}
+
+.internet {
+    font-size: 13px;
+}
+
+.AppleTV {
+    font-size: 13px;
+}
+
+.cookie {
+    font-size: 13px;
+}
+
+.Support {
+    font-size: 13px;
+}
+
+.btn {
+    font-size: 13px;
+}

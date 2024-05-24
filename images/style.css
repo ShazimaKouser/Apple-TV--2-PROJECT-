@@ -1,0 +1,237 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.icons {
+    background-color: black;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+}
+
+.item {
+    display: inline-block;
+    color: #dfd6d6;
+    margin: 8px 13px;
+    font-size: 15px;
+}
+
+.items {
+    display: inline-block;
+    color: #a9a6a6;
+    margin: 8px 13px;
+    font-size: 15px;
+}
+
+ul.Apple {
+    background-color: black;
+}
+
+.tv {
+    position: relative;
+    list-style: none;
+    color: #fff;
+    margin-left: 18%;
+    top: 19px;
+    font-size: 20px;
+
+
+}
+
+.tvs {
+    position: relative;
+    margin-left: 77%;
+    text-align: center;
+    margin-top: 0px;
+    height: 22px;
+    padding-top: 5px;
+    width: 100px;
+    border-radius: 14px;
+    background-color: #fff;
+    color: black;
+    font-size: 14px;
+
+}
+
+.pic {
+    height: 105%;
+    width: 100%;
+    position: absolute;
+}
+
+.pic1 {
+    position: absolute;
+    height: 32px;
+    margin-top: 475px;
+    margin-left: 40px;
+}
+
+.para1 {
+    position: absolute;
+    color: #fff;
+    width: 25%;
+    font-weight: normal;
+    margin-top: 40%;
+    margin-left: 40px;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1.para {
+    position: relative;
+    color: rgba(240, 248, 255, 0.836);
+    top: 530px;
+    margin-left: 40px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.show {
+    display: flex;
+    position: absolute;
+    top: 130%;
+    height: 200px;
+    width: 100%;
+    border-bottom: 1px solid rgba(129, 126, 126, 0.274);
+    padding-bottom: 40px;
+}
+
+.img {
+
+    width: 230px;
+    height: 130px;
+    margin-left: 16px;
+    position: relative;
+    left: 10px;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+
+.show img:hover {
+    opacity: 0.8;
+}
+
+
+.hd {
+    color: black;
+    position: absolute;
+    margin-top: -3%;
+    font-size: 19px;
+    left: 2%;
+}
+
+.contant {
+    position: relative;
+    margin-left: 11%;
+    font-size: 15px;
+    font-weight: lighter;
+    color: rgba(0, 0, 0, 0.733);
+}
+
+.show1 {
+    display: flex;
+    position: absolute;
+    top: 130%;
+    height: 165px;
+    width: 100%;
+    border-bottom: 1px solid rgba(129, 126, 126, 0.342);
+}
+
+
+.contant1 {
+    width: 89%;
+    position: relative;
+    left: 30px;
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.562);
+    font-weight: lighter;
+}
+
+.show2 {
+    display: flex;
+    position: absolute;
+    top: 230%;
+    height: 165px;
+    width: 100%;
+    border-bottom: 1px solid rgba(129, 126, 126, 0.342);
+}
+
+.show3 {
+    display: flex;
+    position: absolute;
+    top: 330%;
+    height: 165px;
+    width: 100%;
+    border-bottom: 1px solid rgba(129, 126, 126, 0.342);
+}
+
+.show4 {
+    display: flex;
+    position: absolute;
+    top: 430%;
+    height: 165px;
+    width: 100%;
+    border-bottom: 1px solid rgba(129, 126, 126, 0.342);
+}
+
+.foot {
+    position: absolute;
+    color: #000000c2;
+    min-width: 30%;
+    margin-top: 91%;
+    font-size: 13px;
+    right: 65%;
+}
+
+.internet {
+    position: absolute;
+    color: #000000c2;
+    min-height: 20%;
+    min-width: 30%;
+    margin-top: 93%;
+    font-size: 12px;
+    right: 65%;
+    list-style: none;
+}
+
+.AppleTV {
+    position: absolute;
+    color: #000000c2;
+    min-width: 30%;
+    margin-top: 93%;
+    font-size: 11px;
+    right: 56%;
+    list-style: none;
+}
+
+.cookie {
+    position: absolute;
+    color: #000000c2;
+    min-width: 30%;
+    margin-top: 93%;
+    font-size: 11px;
+    right: 48%;
+    list-style: none;
+}
+
+.Support {
+    position: absolute;
+    color: #000000c2;
+    min-width: 30%;
+    margin-top: 93%;
+    font-size: 11px;
+    right: 42%;
+    list-style: none;
+}
+
+.btn {
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    right: 10%;
+    font-size: 12px;
+    min-width: 10%;
+    color: #000000bd;
+    margin-top: 91%;
+}

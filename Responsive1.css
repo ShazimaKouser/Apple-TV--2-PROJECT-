@@ -328,7 +328,7 @@
     }
 
     h1.hd {
-        font-size: 30px;
+        font-size: 36px;
     }
 
     .pic1 {
@@ -340,7 +340,12 @@
     }
 
     .contant {
-        font-size: 17px;
+        font-size: 18px;
+        color: black;
+    }
+
+    h4.contant1 {
+        font-size: 30px;
     }
 
     .img1 {
@@ -374,12 +379,12 @@
     }
 
     p.foot {
-        font-size: 40px;
+        font-size: 32px;
 
     }
 
     .btn {
-        font-size: 32px;
+        display: none;
     }
 
     .Footer-banner {
@@ -388,7 +393,7 @@
 
     .footer {
         display: flex;
-        width: 220%;
+        width: 165vh;
     }
 
     p.internet {
@@ -411,6 +416,7 @@
         border-bottom: 2px solid rgba(129, 126, 126, 0.274);
         width: 125%;
         flex-wrap: wrap;
+        justify-content: center;
 
     }
 
@@ -418,6 +424,7 @@
         border-bottom: 2px solid rgba(129, 126, 126, 0.274);
         width: 345%;
         flex-wrap: wrap;
+        justify-content: center;
     }
 
 
@@ -425,17 +432,20 @@
         border-bottom: 2px solid rgba(129, 126, 126, 0.274);
         width: 345%;
         flex-wrap: wrap;
+        justify-content: center;
     }
 
     .show3 {
         border-bottom: 2px solid rgba(129, 126, 126, 0.274);
         width: 345%;
         flex-wrap: wrap;
+        justify-content: center;
     }
 
     .show4 {
         border-bottom: 2px solid rgba(129, 126, 126, 0.274);
         width: 345%;
         flex-wrap: wrap;
+        justify-content: center;
     }
 }

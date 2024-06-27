@@ -329,7 +329,9 @@
 
     h1.hd {
         font-size: 36px;
+        text-align: center;
     }
+
 
     .pic1 {
         width: 350%;

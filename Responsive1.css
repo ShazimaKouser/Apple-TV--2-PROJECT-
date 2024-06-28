@@ -5,56 +5,125 @@
         height: 100%;
     }
 
+    .icons {
+        display: none;
+    }
+
     .items {
         font-size: 12px;
     }
 
     nav.navbar {
         width: 100%;
+        height: 100px;
     }
 
     li.tv {
-        font-size: 18px;
+        font-size: 35px;
+        padding: 2%;
     }
 
     li.tvs {
-        padding: 4px 1%;
+        display: none;
+    }
+
+    .img-pic {
+        width: 30%;
+    }
+
+    .para {
+        color: white;
+        font-size: 25px;
+        margin: 0;
+    }
+
+    h1.para1 {
+        width: 100%;
+        font-size: 35px;
+        margin: 0;
+    }
+
+    h1.hd {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .show {
+        flex-wrap: wrap;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .contant {
+        font-size: 20px;
+        color: #000;
+    }
+
+    .image {
+        width: 45%;
+    }
+
+    .pic {
+        text-align: center;
+        width: 100%;
     }
 
     img.pic2 {
         width: 100%;
     }
 
+    .show1 {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .show2 {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .show3 {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .show4 {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
     p.foot {
-        font-size: 18px;
+        font-size: 25px;
 
     }
 
     .btn {
-        font-size: 14px;
+        font-size: 25px;
         padding-right: 8%;
     }
 
     .footer {
-        width: 70%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
     }
 
     p.internet {
-        font-size: 18px;
+        font-size: 25px;
     }
 
     p.AppleTV {
-        font-size: 18px;
+        font-size: 25px;
     }
 
     p.cookie {
-        font-size: 18px;
+        font-size: 25px;
     }
 
     p.Support {
-        font-size: 18px;
+        font-size: 25px;
     }
-
 }
 
 @media only screen and (min-width:769px) and (max-width:991px) {
